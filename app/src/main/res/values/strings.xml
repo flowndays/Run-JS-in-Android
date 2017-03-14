@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JSExp</string>
+    <string-array name="target_logic_array">
+        <item>Regex check</item>
+        <item>List merge</item>
+    </string-array>
+    <string-array name="execute_times_array">
+        <item>1</item>
+        <item>10</item>
+        <item>100</item>
+        <item>1000</item>
+        <item>10000</item>
+    </string-array>
+</resources>
